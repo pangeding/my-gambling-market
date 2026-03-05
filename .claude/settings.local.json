@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(forge test:*)",
+      "Bash(pnpm:*)",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}

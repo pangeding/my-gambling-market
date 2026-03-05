@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+contracts/cache/
+contracts/out/
+frontend/.next/
